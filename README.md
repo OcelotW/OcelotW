@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Leonardo Tobar
 - 👀 I’m interested in BackEnd and Data Bases
-- 🌱 I’m currently learning advahced javascript
+- 🌱 I’m currently learning advanced javascript
 - 📫 How to reach me Starfelinae@gmail.com  
